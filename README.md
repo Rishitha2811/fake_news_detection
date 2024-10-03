@@ -35,3 +35,16 @@
     * We have used two metrics, in evaluating the model preformance
         * Accuracy Score, which the percentage of matching between the actuals and predictions.
         * Confusion Matrix
+
+* **Conclusion**
+    * We have built three models, which are able to predict the fake news with an accuracy of 90%.
+    * The best model is the Random Forest, which has an accuracy of 95%.
+    * We can further improve the model by using the deep learning models, which are able to learn the complex patterns in the data.
+    * We can also use the BERT, which is a transformer model, which is able to learn the context of the words.
+    * We can also use the ensemble of models, which are able to combine the predictions of multiple models.
+    * We can also use the hyperparameter tuning, which is able to find the best parameters for the model.
+    * We can also use the cross validation, which is able to find the best model, which is able to generalize well on the unseen data.
+    * We can also use the data augmentation, which is able to generate more data from the existing data.
+    * We can also use the transfer learning, which is able to transfer the knowledge from one model to another model.
+    * We can also use the active learning, which is able to learn the patterns in the data, which are hard to learn.
+    * We can also use the semi-supervised learning, which is able to learn the patterns in the data, which are partially labeled.
